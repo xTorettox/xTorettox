@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fede García Cendra...</h1>
-<h3 align="center">👀 ... (but you can call me @xTorettox in here.</h3>
+<h3 align="center"> ...but you can call me @xTorettox in here 👀</h3>
 <h3 align="center">I’m interested in problem solving and coming up with digital solutions for web users.</h3>
 
-- 🔭 I’m currently working on [Altillo 8 bits], a website I designed for my Graphic Design project back in college (https://github.com/xTorettox/Altillo8bits, https://altillo.fedev.com.ar for a rather awful preview)
+- 🔭 I’m currently working on [Altillo 8 bits], a website I designed for my Graphic Design project back in college (https://github.com/xTorettox/Altillo8bits here in GH, https://altillo.fedev.com.ar for a rather awful preview on my in-progress-website)
 
-- 🌱 I’m currently learning **Svelte / Sveltekit (and I love 'em!!)**
+- 🌱 I’m currently learning **Svelte / Sveltekit (and I have to say I love'em!!)**
 
-- 👨‍💻 All of my projects will be available son at [fedev.com.ar](fedev.com.ar)
+- 👨‍💻 All of my projects will be available soon at [fedev.com.ar](fedev.com.ar)
 
-- 📫 How to reach me **fg.garciacendra@gmail.com, federico.garcia@fedev.com.ar**
+- 📫 How to reach me **fg.garciacendra@gmail.com and federico.garcia@fedev.com.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
