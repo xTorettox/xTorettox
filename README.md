@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fede García Cendra (but you can call me @xTorettox in here))</h1>
-<h3 align="center">👀 I’m interested in problem solving and coming up with digital solutions for web users.</h3>
+<h1 align="center">Hi 👋, I'm Fede García Cendra...</h1>
+<h3 align="center">👀 ... (but you can call me @xTorettox in here.</h3>
+<h3 align="center">I’m interested in problem solving and coming up with digital solutions for web users.</h3>
 
-- 🔭 I’m currently working on [Altillo 8 bits](https://github.com/xTorettox/Altillo8bits)
+- 🔭 I’m currently working on [Altillo 8 bits], a website I designed for my Graphic Design project back in college (https://github.com/xTorettox/Altillo8bits, https://altillo.fedev.com.ar for a rather awful preview)
 
 - 🌱 I’m currently learning **Svelte / Sveltekit (and I love 'em!!)**
 
